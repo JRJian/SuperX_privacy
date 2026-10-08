@@ -1,52 +1,42 @@
-# SuperX_privacy
+# SuperX Privacy Policy
 
-SuperX Privacy Policy
-This privacy policy explains how we collect, use and share data through our products and services (including our websites and mobile applications) and we refer to these together as the “Apps”.
+Last updated: October 8, 2026
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This policy explains how the SuperX iOS app handles information when you use its picture-in-picture player, built-in web browser, local media features, and in-app purchases. It applies to SuperX, not to websites or services that you choose to open in the app.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+## Information handled by SuperX
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at SuperX unless otherwise defined in this Privacy Policy.
+SuperX does not require you to create an account. We do not display advertisements, use advertising tracking, or operate an analytics service in the app.
 
-Information Collection and Use
+- **Information stored on your device.** The app stores preferences and operational information, such as your language setting, daily usage count, and whether a purchase has been unlocked, using iOS local storage. The built-in browser may store website data and cookies on your device. Media and documents that you choose to open or import are used to provide the requested feature; files imported as copies may remain in the app's local storage.
+- **URLs and clipboard.** When you enter a URL, open a shared link, or choose the clipboard feature, SuperX uses that content to open the requested page or video. The clipboard is read when you select that feature. The requested URL and related network information are sent to the website or video service you choose to access.
+- **Purchases.** In-app purchases and restores are processed through Apple. SuperX receives the purchase result and stores the unlocked status locally. When purchase verification is used, the app sends the App Store receipt to Apple's verification service. We do not receive your payment card details.
+- **Messages to us.** If you email us for support or a privacy request, we receive the information you choose to include in your message and use it to respond to you.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+## Websites and third-party services
 
-Cookies
+SuperX can display third-party websites and YouTube videos. When you use these features, those services may receive your IP address, requested URL, browser or device information, and any information you provide to them. They may set cookies or process information under their own privacy policies. SuperX does not control their data practices. Review the privacy policy of any site or service you choose to use.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Apple handles App Store purchases and receipt verification under its own privacy practices. SuperX does not sell your personal information to data brokers or share it for advertising.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## Retention and deletion
 
-Service Providers
+App preferences, purchase status, imported copies, and browser data may remain on your device until you remove them through available iOS controls or delete the app. Apple may retain purchase records under its own policies. If you contact us by email, we keep your correspondence as needed to handle your request and any applicable legal obligations. You can request deletion of correspondence we hold by emailing us at the address below.
 
-I may employ third-party companies and individuals due to the following reasons:
+SuperX does not provide an account, so there is no SuperX account to delete. Deleting the app removes its local app data from your device, subject to how iOS and any device backups manage that data. Deleting the app does not delete information held by websites you visited or by Apple.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+## Security
 
-Security
+We use the security features provided by iOS for information stored in the app. No method of electronic storage or internet transmission is completely secure.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## Children's privacy
 
-Links to Other Sites
+SuperX is not directed to children under 13. We do not knowingly collect personal information from children under 13 through a SuperX account or server. If you believe a child has sent us personal information, contact us so we can address it.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## Changes to this policy
 
-Children’s Privacy
+We may update this policy when SuperX's features or data practices change. The updated policy and its revision date will be posted on this page.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+## Contact
 
-Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2023-07-02
-
-Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at szsb_jian@outlook.com.email.
+For privacy questions or requests, email [szsb_jian@outlook.com](mailto:szsb_jian@outlook.com).
