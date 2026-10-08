@@ -6,7 +6,7 @@ This policy explains how the SuperX iOS app handles information when you use its
 
 ## Information handled by SuperX
 
-SuperX does not require you to create an account. We do not display advertisements, use advertising tracking, or operate an analytics service in the app.
+SuperX does not require you to create an account. SuperX does not serve its own advertisements, use advertising tracking, or operate an analytics service in the app. Websites and video services that you open may have their own advertising practices.
 
 - **Information stored on your device.** The app stores preferences and operational information, such as your language setting, daily usage count, and whether a purchase has been unlocked, using iOS local storage. The built-in browser may store website data and cookies on your device. Media and documents that you choose to open or import are used to provide the requested feature; files imported as copies may remain in the app's local storage.
 - **URLs and clipboard.** When you enter a URL, open a shared link, or choose the clipboard feature, SuperX uses that content to open the requested page or video. The clipboard is read when you select that feature. The requested URL and related network information are sent to the website or video service you choose to access.
@@ -15,7 +15,7 @@ SuperX does not require you to create an account. We do not display advertisemen
 
 ## Websites and third-party services
 
-SuperX can display third-party websites and YouTube videos. When you use these features, those services may receive your IP address, requested URL, browser or device information, and any information you provide to them. They may set cookies or process information under their own privacy policies. SuperX does not control their data practices. Review the privacy policy of any site or service you choose to use.
+SuperX uses YouTube API Services, specifically the YouTube IFrame Player API, to display YouTube videos. When you use YouTube playback or open a third-party website, that service may receive your IP address, requested URL, browser or device information, playback interactions, and any information you provide to it. It may set cookies or similar technologies and may display its own content, including advertisements, under its own policies. See the [Google Privacy Policy](https://policies.google.com/privacy) for Google's handling of information. SuperX does not control the data practices of YouTube or other websites. Review the privacy policy of any site or service you choose to use.
 
 Apple handles App Store purchases and receipt verification under its own privacy practices. SuperX does not sell your personal information to data brokers or share it for advertising.
 
